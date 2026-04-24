@@ -1,16 +1,23 @@
-## Hi there 👋
+<h3 align="left">Hi, I'm Anton👋</a> 
+  
+##### 💻 Junior developer focused on game development and web applications
 
-<!--
-**Shida78/Shida78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🚀 About Me
+- 🎮 Currently developing games in Unity (C#)  
+- 🧠 Interested in gamedev, backend, and frontend  
+- ⚙️ Have experience building small projects and prototypes  
+- 🌱 Planning to explore Unreal Engine in the future  
 
-Here are some ideas to get you started:
+#### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Main:**  C#, Unity  
+- **Other Languages:**  Python, JavaScript, C/C++ (embedded)  
+- **Web:**  Django, HTML, CSS, three.js  
+- **Data:**  Pandas  
+
+#### 📚 Projects
+- 🧊 3d Gallery: https://shida.pythonanywhere.com/
+
+#### 📫 Contact Me
+💬 Telegram: @eve043  
+📧 Email: shidairu@inbox.ru  
