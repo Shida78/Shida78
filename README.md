@@ -1,6 +1,6 @@
 <h3 align="left">Hi, I'm Anton👋</a> 
   
-##### 💻 Junior developer focused on game development and web applications
+#### 💻 Junior developer focused on game development and web applications
 
 #### 🚀 About Me
 - 🎮 Currently developing games in Unity (C#)  
