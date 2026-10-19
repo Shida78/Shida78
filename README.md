@@ -19,7 +19,9 @@
 ### 📚 Projects
 - 🧊 3d Gallery: https://shida.pythonanywhere.com/
 
-  (Repo: https://github.com/Shida78/3d_Gallery)
+  - Repo: https://github.com/Shida78/3d_Gallery
+
+- 🧊 Booking weekly report (pandas Automation): https://github.com/Shida78/booking-weekly-report
 
   
 
