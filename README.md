@@ -21,7 +21,13 @@
 
   - Repo: https://github.com/Shida78/3d_Gallery
 
-- 🧊 Booking weekly report (pandas Automation): https://github.com/Shida78/booking-weekly-report
+- 🧊 Booking weekly report (pandas Automation)
+
+  - Repo: https://github.com/Shida78/booking-weekly-report
+    
+- 🧊 Data analysis and visualization of MovieLens 1M and California Housing with pandas and seaborn
+
+  - Repo: https://github.com/Shida78/movielens-data-analysis
 
   
 
