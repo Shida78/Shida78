@@ -18,7 +18,10 @@
 
 ### 📚 Projects
 - 🧊 3d Gallery: https://shida.pythonanywhere.com/
-    Repo: https://github.com/Shida78/3d_Gallery
+
+  (Repo: https://github.com/Shida78/3d_Gallery)
+
+  
 
 ### 📫 Contact Me
 💬 Telegram: @eve043  
