@@ -1,6 +1,6 @@
 <h3 align="left">Hi, I'm Anton👋</a> 
   
-#### 💻 Junior Java Developer | ex-QA Automation Engineer
+#### 💻 Junior Java Developer
 
 ### 🚀 About Me
 - 🧠 Comfortable with backend work: REST API, debugging via logs, Git, CI/CD
