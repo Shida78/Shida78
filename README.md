@@ -1,6 +1,6 @@
 <h3 align="left">Hi, I'm Anton👋</a> 
   
-#### 💻 Junior Java Developer
+#### 💻 Junior Game Developer
 
 ### 🚀 About Me
 - 🧠 Comfortable with backend work: REST API, debugging via logs, Git, CI/CD
