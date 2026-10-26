@@ -3,15 +3,14 @@
 #### 💻 Junior Java Developer | ex-QA Automation Engineer
 
 ### 🚀 About Me
-- ☕ Java developer with a QA automation background: wrote automated and unit tests in Java, tested REST APIs and mobile apps
 - 🧠 Comfortable with backend work: REST API, debugging via logs, Git, CI/CD
 - ⚙️ Can work with different Java versions, not just the latest one
 - 🎮 Built game projects and prototypes in Unity (C#) and worked on a game in Unreal Engine
+- 📲 Worked with Python frameworks: numpy, pandas, jungo. Run automation on Python
 - 🌱 Looking to grow as a backend developer
 
 ### 🛠️ Tech Stack
-- **Main:**  Java,
-- **Testing & Tools:** Unit tests, API testing, Git, CI/CD, log analysis, BrowserStack
+- **Main:**  Java
 - **Other Languages:** C#, Python, JavaScript, C/C++ (embedded)  
 - **Web:**  Django, HTML, CSS, three.js  
 - **Data:**  Pandas
@@ -28,6 +27,8 @@
 - 🧊 Data analysis and visualization of MovieLens 1M and California Housing with pandas and seaborn
 
   - Repo: https://github.com/Shida78/movielens-data-analysis
+    
+- 🚩 Other projects, including mini-games in my repo
 
   
 
